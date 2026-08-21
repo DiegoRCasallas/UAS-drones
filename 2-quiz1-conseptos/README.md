@@ -18,19 +18,19 @@
 ## Clases de Espacio Aéreo
 
 ### Clase A
-> *(Significado):*
+> *(El más restrictivo. Solo se permiten vuelos IFR (instrumentales). Todos los aviones están bajo un estricto control de tránsito aéreo.):*
 
 ### Clase B
-> *(Significado):*
+> *(Aquí ya se permiten vuelos IFR y VFR. Todos controlados y separados entre sí, sin limitaciones de velocidad.):*
 
 ### Clase C
-> *(Significado):*
+> *Admite vuelos IFR y VFR. Los IFR están separados de todos, mientras que los VFR solo reciben información de otros vuelos VFR. Hasta los 10.000 pies, los VFR no pueden superar los 250 nudos de velocidad indicada.*
 
 ### Clase D
-> *(Significado):*
+> *Permite IFR y VFR, pero los IFR solo se separan entre sí. Los VFR reciben información sobre todo el tráfico. También existe límite de velocidad de 250 nudos bajo 10.000 pies.*
 
 ### Clase E
-> *(Significado):*
+> *Menos restrictiva. IFR controlados y separados. Los VFR solo reciben información de tránsito.*
 
 ## OACI
-> *(Significado):*
+> *(Organizacion de Aviación Civil Internacional): Es una organizacion que establece el marco regulatorio para la operacion segura de UAS en el espacio aéreo civil.*
